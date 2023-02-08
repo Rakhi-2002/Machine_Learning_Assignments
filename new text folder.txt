@@ -1,0 +1,12 @@
+Steps to add our project to the Github(or Creating the git repository of our project)
+-	Create a folder in which you have added all your project files, codes.
+-	Create .gitignore file, to add the files in it which you don’t want publicly visible.
+-	Configuring the name & email of the user.
+-	Create .git to initialize the git repository for our project.
+-	Bringing all the files in the Staging area, so t
+-	Add initial commit.
+-	Check the status of working tree
+-	Now to give our computer the access of our private repository, creating a new SSH key(if already having then use the old one) by the given command.
+-	Then will get our key, we will add the key in our github in Add new SSH key section.
+-	Adding our git repository url
+-	Pushing our project to the git hub repository.
